@@ -1,0 +1,102 @@
+{
+    "personalInfo": [
+        {
+            "title": "Full Name",
+            "value": "Mazedur Rahman"
+        },
+        {
+            "title": "Age",
+            "value": "35 Years"
+        },
+        {
+            "title": "Nationality",
+            "value": "Bangladeshi"
+        },
+        {
+            "title": "Address",
+            "value": "Dhaka, Bangladesh"
+        },
+        {
+            "title": "Whatsapp",
+            "value": "+01916178600"
+        },
+        {
+            "title": "Email",
+            "value": "mazedur@gmail.com"
+        },
+        {
+            "title": "Github",
+            "value": "laraxpress"
+        },
+        {
+            "title": "Skype",
+            "value": "mazed_du"
+        },
+        {
+            "title": "Languages",
+            "value": "Bengali, English"
+        },
+        {
+            "title": "Freelance",
+            "value": "Available"
+        }
+    ],
+    "experiences": [
+        {
+            "jobTitle": "Freelance Developer",
+            "workingYear": "2021 - Present",
+            "companyName": "CodexWorld Inc",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing, elit. Quas assumenda, facere dolore quae? Laborum, eum, inventore? Cumque, iste! Odit voluptates ad minus excepturi blanditiis quibusdam non, laboriosam, ab magnam dolores."
+        },
+        {
+            "jobTitle": "Programmer",
+            "workingYear": "2017 - 2018",
+            "companyName": "LIT Inc",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing, elit. Quas assumenda, facere dolore quae? Laborum, eum, inventore? Cumque, iste! Odit voluptates ad minus excepturi blanditiis quibusdam non, laboriosam, ab magnam dolores."
+        },
+        {
+            "jobTitle": "Junior Developer",
+            "workingYear": "2015 - 2016",
+            "companyName": "Ipsita Computer PTE",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing, elit. Quas assumenda, facere dolore quae? Laborum, eum, inventore? Cumque, iste! Odit voluptates ad minus excepturi blanditiis quibusdam non, laboriosam, ab magnam dolores."
+        }
+    ],
+    "educations": [
+        {
+            "passingYear": "2007",
+            "title": "Bachelor of Science",
+            "institute": "University of Dhaka",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing, elit. Quas assumenda, facere dolore quae? Laborum, eum, inventore? Cumque, iste! Odit voluptates ad minus excepturi blanditiis quibusdam non, laboriosam, ab magnam dolores."
+        },
+        {
+            "passingYear": "2002",
+            "title": "HSC",
+            "institute": "Dhaka Residential Model College",
+            "description": "High Secondary Certificate"
+        },
+        {
+            "passingYear": "2000",
+            "title": "SSC",
+            "institute": "New Model High School",
+            "description": "Secondary School Certificate"
+        }
+    ],
+    "statsInfo": [
+        {
+            "count": "5",
+            "title": "Years of <br> experience"
+        },
+        {
+            "count": "50",
+            "title": "Completed <br> projects"
+        },
+        {
+            "count": "30",
+            "title": "Happy <br> Customers"
+        },
+        {
+            "count": "10",
+            "title": "Awards <br> win"
+        }
+    ]
+}
